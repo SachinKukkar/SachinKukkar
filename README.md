@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sachin Kukkar</h1>
 <h3 align="center">A passionate software developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.prod.website-files.com/629997f37bd997702e98c3b9/65239a78b97a83b9c2c08619_65016a015ea5cd2c655b529e_9.png">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sachinkukkar&label=Profile%20views&color=0e75b6&style=flat" alt="sachinkukkar" /> </p>
 
